@@ -9,3 +9,5 @@ There are programs out there that might do something like this for you, but I fi
 ## The Future
 
 This started off as a really specialized script, in the future I'd like to generalize its purpose and make it more OOP.
+
+* In addition to this, creating a more flexible test directory would be another future goal.
